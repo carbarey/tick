@@ -1,5 +1,6 @@
 data.xlsx
+csv
+model*
 *.txt
 *.bkp*
-model*
 .ipynb_checkpoints
